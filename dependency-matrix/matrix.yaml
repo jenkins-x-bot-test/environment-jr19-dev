@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: cb-kubecd
+  repo: golang-04
+  url: https://github.com/cb-kubecd/golang-04.git
+  version: ""
+  versionURL: ""
